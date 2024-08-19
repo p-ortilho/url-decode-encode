@@ -13,3 +13,17 @@ A descrição que é colocada no próprio site diz:
 É uma ótima opção para dar um visual à aplicação Python, tornando-a acessível para o público em geral e não dependendo somente de comandos via terminal ou de um executável.
 
 Para conferir a aplicação, acesse: [Url Decode Encode](https://url-decode-encode.reflex.run/).
+
+---
+
+## Testando a aplicação localmente
+
+Primeiro instale a biblioteca Reflex:
+~~~
+pip install reflex
+~~~
+
+Dentro do diretorio da aplicação execute o seguinte comando:
+~~~
+reflex run
+~~~
